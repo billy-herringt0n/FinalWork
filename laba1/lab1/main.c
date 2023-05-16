@@ -16,8 +16,11 @@ void main() {
 	setlocale(LC_ALL, ".1251");
 	printf("¬ведите число x\n");
 	scanf_s("%lf", &x);
+	if (x > 0) {
+		printf("число положительное\n");
+	}
 	ln = log(x);
-	eax = (k1 + x) / pow(x, 2);
+	eax = (k1 + x) / pow(x, 2); //проверка на положительность введенной переменной
 	tg = tan(x);
 	b = sqrt(pow(x, 2) + k3);
 	c = k2 / b;

@@ -1,3 +1,4 @@
 C:\Users\billy.herringt0n\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
 C:\Download\Student\prog\lab1\x64\Debug\ConsoleApplication1.exe
 D:\PGU\1 курс\2 семестр\ИТвПД\Lr10\FinalWork\laba1\lab1\x64\Debug\ConsoleApplication1.exe
+E:\FVT\ИТвПД\LR10\FinalWork\laba1\lab1\x64\Debug\ConsoleApplication1.exe
